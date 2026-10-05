@@ -1,0 +1,2 @@
+CLIP zero-shot accuracy: 0.9041666666666667
+Misinformation detection accuracy: 0.9770833333333333

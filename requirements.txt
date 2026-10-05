@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+torch==2.14.1+cu132
+torchvision==0.29.1+cu132
+
+pandas
+matplotlib
+pillow
+tqdm
+scikit-learn
+transformers
+datasets
+accelerate
+num2words
